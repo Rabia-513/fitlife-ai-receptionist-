@@ -91,14 +91,13 @@ The following were observed during development:
 
 ### Screenshots
 
-Add only redacted screenshots that you are comfortable sharing publicly. Suggested evidence:
-
-- Vapi assistant configuration and browser-call transcript
-- `save_gym_lead` tool configuration, with endpoint details and credentials hidden
+- Vapi assistant
+https://github.com/Rabia-513/fitlife-ai-receptionist-/blob/main/screenshots/01-vapi-assistant.PNG?raw=true
 - n8n workflow canvas and successful execution
+https://github.com/Rabia-513/fitlife-ai-receptionist-/blob/main/screenshots/03-n8n-workflow.png?raw=true
 - Google Sheets demo lead row with fictional contact details
+https://github.com/Rabia-513/fitlife-ai-receptionist-/blob/main/screenshots/04-google-sheet.png?raw=true
 
-Screenshots can be stored in [`screenshots/`](screenshots/). No personal voice recordings or publicly accessible demo videos are required for this portfolio repository.
 
 ## Limitations
 
@@ -122,9 +121,9 @@ fitlife-ai-receptionist/
 │   └── crm-columns.csv
 ├── workflows/
 │   ├── README.md
-│   └── [sanitized n8n and Vapi JSON exports, if included]
+│   └── [sanitized n8n and Vapi JSON exports,]
 └── screenshots/
-    └── [redacted demo screenshots, if included]
+    └── [ screenshots, ]
 ```
 
 Do not upload the original private `.env`, real access keys, Vapi/n8n credentials, unredacted account data, real lead records, or private call recordings. Review exported workflow JSON for live endpoints and credential references before making the repository public.
