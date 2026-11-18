@@ -92,12 +92,14 @@ The following were observed during development:
 ### Screenshots
 
 - Vapi assistant
-https://github.com/Rabia-513/fitlife-ai-receptionist-/blob/main/screenshots/01-vapi-assistant.PNG?raw=true
+  
+ <img width="1366" height="690" alt="image" src="https://github.com/user-attachments/assets/bb4d1160-bf67-46a9-8f27-e927d483a7b3" />
 - n8n workflow canvas and successful execution
-https://github.com/Rabia-513/fitlife-ai-receptionist-/blob/main/screenshots/03-n8n-workflow.png?raw=true
+  
+ <img width="1359" height="678" alt="image" src="https://github.com/user-attachments/assets/f4909243-d401-493f-b340-51e1e8ed2d4e" />
 - Google Sheets demo lead row with fictional contact details
-https://github.com/Rabia-513/fitlife-ai-receptionist-/blob/main/screenshots/04-google-sheet.png?raw=true
-
+  
+ <img width="1366" height="684" alt="image" src="https://github.com/user-attachments/assets/812435fb-18d8-42f8-936d-4fd36bb0d87c" />
 
 ## Limitations
 
@@ -123,7 +125,7 @@ fitlife-ai-receptionist/
 │   ├── README.md
 │   └── [sanitized n8n and Vapi JSON exports,]
 └── screenshots/
-    └── [ screenshots, ]
+    └── [ screenshots ]
 ```
 
 Do not upload the original private `.env`, real access keys, Vapi/n8n credentials, unredacted account data, real lead records, or private call recordings. Review exported workflow JSON for live endpoints and credential references before making the repository public.
